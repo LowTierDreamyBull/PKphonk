@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
               artists, and the vibrant culture that defines this iconic music genre.
             </p>
             <div className="flex space-x-4 pt-2">
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://www.aparat.com/PARSAKING70" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
